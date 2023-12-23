@@ -23,6 +23,8 @@ $version: '6.3.0';
 // APP
 @import 'src/app/app';
 
+@import 'src/app/background';
+
 @import 'src/app/notice';
 @import 'src/app/titlebar';
 
